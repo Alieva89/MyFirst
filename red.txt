@@ -1,3 +1,7 @@
 I like singing
 Thanks
+<<<<<<< HEAD
 bye
+=======
+hi
+>>>>>>> fabric
